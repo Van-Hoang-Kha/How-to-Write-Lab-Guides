@@ -133,8 +133,6 @@ Nội dung:
 			- [**Phần vẽ bảng**](#phần-vẽ-bảng)
 			- [**Phần hình ảnh**](#phần-hình-ảnh)
 		- [**Update config.toml**](#update-configtoml)
-- [Cre: Sư Huynh Minh Lê, Sư Huynh Thanh Hiệp](#cre-sư-huynh-minh-lê-sư-huynh-thanh-hiệp)
-
 ```
 	
 #### **Phần ghi chú**
