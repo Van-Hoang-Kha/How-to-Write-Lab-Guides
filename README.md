@@ -1,6 +1,6 @@
 # **Cách viết một Lab Guide**
 
- ## **I. Phần 1: Chuẩn bị**
+## **I. Phần 1: Chuẩn bị**
  1. **Tải Hugo Theme** 
  - Lab guide sử dụng [**Theme Hugo**](https://gohugo.io/) có thể được cài đặt trên nhiều nền tảng tại [đây](https://gohugo.io/getting-started/installing/) , chỉ cần gõ **```hugo version```** trong **Terminal/CMD/PowerShell** chạy được là được.
  
